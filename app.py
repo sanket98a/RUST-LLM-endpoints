@@ -1,9 +1,6 @@
 import streamlit as st
 import requests
-
-
-
-## bhaskar
+## added
 
 # Define the Rust API endpoint URL
 API_URL = "http://localhost:8083/api/chat"
